@@ -1,0 +1,106 @@
+# D2C Skincare E-Commerce Analytics Project
+
+## Project Overview
+
+This project analyzes a Direct-to-Consumer (D2C) skincare e-commerce business using a relational dataset containing customers, products, orders, returns, and reviews. The objective is to transform raw business data into actionable insights that support decision-making across sales, customer retention, product performance, and operational efficiency.
+
+## Why Python?
+
+Modern businesses generate large volumes of transactional data that cannot be efficiently analyzed using spreadsheets alone. Python provides a scalable and efficient environment for data cleaning, transformation, analysis, and visualization.
+
+For this project, Python was used to:
+
+* Process and analyze thousands of transaction records efficiently.
+* Automate repetitive data-cleaning tasks.
+* Perform advanced business analytics and KPI calculations.
+* Generate insights that help improve revenue and customer experience.
+* Build a reproducible analytics workflow suitable for real-world business environments.
+
+## Why Pandas?
+
+Pandas is one of the most powerful Python libraries for data analysis and manipulation. It enables analysts to work with structured business data quickly and effectively.
+
+In this project, Pandas was used for:
+
+* Data cleaning and preprocessing.
+* Handling missing and inconsistent values.
+* Merging multiple relational tables.
+* Aggregating sales and customer metrics.
+* Calculating business KPIs.
+* Customer segmentation analysis.
+* Product performance evaluation.
+* Return-rate analysis.
+* Customer Lifetime Value (CLV) calculations.
+* RFM (Recency, Frequency, Monetary) analysis.
+
+## Business Problems Solved
+
+This project addresses several key business questions:
+
+### Revenue Analysis
+
+* How much revenue is generated over time?
+* Which products contribute the most to sales?
+
+### Customer Analytics
+
+* Who are the most valuable customers?
+* What customer segments drive business growth?
+
+### Product Performance
+
+* Which products generate the highest profit?
+* Which products have low sales performance?
+
+### Return Analysis
+
+* Which products experience the highest return rates?
+* What is the impact of returns on overall revenue?
+
+### Customer Retention
+
+* How frequently do customers make repeat purchases?
+* Which customers have the highest lifetime value?
+
+## Key Skills Demonstrated
+
+* Python Programming
+* Pandas
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Business Analytics
+* Customer Segmentation
+* RFM Analysis
+* Customer Lifetime Value (CLV)
+* Data Visualization
+* KPI Development
+* Analytical Thinking
+* Problem Solving
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+* SQL
+* Power BI
+
+## Dataset
+
+The project utilizes a synthetic D2C skincare e-commerce dataset containing:
+
+* Customers
+* Products
+* Orders
+* Order Items
+* Reviews
+* Returns
+
+The dataset is designed for analytics practice and portfolio development and simulates real-world e-commerce business operations.
+
+## Project Outcome
+
+This project demonstrates how data analytics can be used to uncover customer behavior patterns, identify revenue opportunities, optimize product performance, reduce return rates, and support data-driven business decisions in a D2C skincare company.
